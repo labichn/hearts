@@ -1,6 +1,6 @@
 #lang racket
 
-(require "game.rkt" "util.rkt")
+(require "game.rkt" "opt.rkt")
 
 #|
 localhost:8000/hearts

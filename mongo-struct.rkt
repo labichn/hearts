@@ -3,7 +3,7 @@
 (require (for-syntax racket/bool
                      racket/match
                      racket/syntax)
-         "util.rkt"
+         "opt.rkt"
          "persist.rkt"
          racket/flonum
          (planet jaymccarthy/mongodb:1:=12)

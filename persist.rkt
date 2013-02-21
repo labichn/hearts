@@ -1,7 +1,7 @@
 #lang racket
 
 (require (planet jaymccarthy/mongodb:1:=12)
-         json rackunit "data.rkt" "util.rkt")
+         json rackunit "opt.rkt")
 (provide mongo-count
          mongo-create!
          mongo-read-one
